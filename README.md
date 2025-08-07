@@ -28,7 +28,7 @@ I'm a backend-focused engineer passionate about crafting reliable, scalable syst
 
 ### ✍️ Side Quests
 
-- 🧱 Building tools for clean abstractions, developer joy, and early retirement (FIRE 🚀)
+- 🧱 Building tools for clean abstractions, developer joy.
 
 ---
 
